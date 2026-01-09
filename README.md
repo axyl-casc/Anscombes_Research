@@ -3,6 +3,8 @@
 
 This project aims to generate and analyze synthetic datasets that replicate the statistical properties of **Anscombe's Quartet**. Anscombe's Quartet is a set of four datasets with nearly identical summary statistics—mean, variance, and linear regression properties—yet vastly different visual patterns when plotted. This project demonstrates the importance of visual data analysis by recreating the quartet using **linear regression techniques**, **linear algebra**, and **numerical methods**.
 
+**PowerPoint Summary:** [AMD Presentation](https://github.com/ZxNashx/Anscombes_Research/blob/main/AMD%20Math%20Presentation.pdf)
+
 ---
 
 ## Table of Contents
@@ -101,6 +103,5 @@ Where the constants \(a\), \(b\), and \(c\) are solved to match the datasets in 
 ## Additional Resources
 - **Anscombe's Quartet Research Paper**: [Graphs in Statistical Analysis](https://www.sjsu.edu/faculty/gerstman/StatPrimer/anscombe1973.pdf)
 - **Anscombe's Quartet Presentation**: [AMD Presentation](https://github.com/ZxNashx/Anscombes_Research/blob/main/AMD%20Math%20Presentation.pdf)
-
 
 
